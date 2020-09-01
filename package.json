@@ -8,7 +8,8 @@
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
     "start": "npm run storybook",
-    "build": "NODE_ENV=production build-storybook -c .storybook -o docs"
+    "build": "NODE_ENV=production build-storybook -c .storybook -o docs",
+    "chromatic": "npx chromatic --project-token 1odupwl6f87"
   },
   "keywords": [],
   "author": "",
@@ -26,6 +27,7 @@
     "@storybook/addons": "^6.0.21",
     "@storybook/react": "^6.0.21",
     "babel-loader": "^8.1.0",
+    "chromatic": "^5.1.0",
     "css-loader": "^4.1.0",
     "sass": "^1.26.10",
     "sass-loader": "^9.0.2",
