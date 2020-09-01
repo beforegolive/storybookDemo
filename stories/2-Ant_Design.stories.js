@@ -11,7 +11,7 @@ export default {
 // export const CheckBox = () => <Checkbox onChange={action('changed')}>CheckBox</Checkbox>
 
 const CBGroup = Checkbox.Group
-const plainOptions = ['Dev', 'UX', 'BA', 'PM']
+const plainOptions = ['Dev', 'UX', 'BA', 'PM1']
 
 export const CheckBox = () => <CBGroup options={plainOptions} onChange={action('group changed')} />
 
