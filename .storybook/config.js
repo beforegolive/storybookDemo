@@ -1,1 +1,0 @@
-// addDecorator(Story => <Story />)
