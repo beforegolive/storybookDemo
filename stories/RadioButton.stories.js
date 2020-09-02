@@ -2,6 +2,8 @@ import React from "react";
 // import { action } from '@storybook/addon-actions'
 import { Radio } from 'antd'
 
+import './material.css'
+
 export default {
   title: 'RadioButton',
   component: Radio
