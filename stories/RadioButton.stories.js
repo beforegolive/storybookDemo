@@ -13,5 +13,4 @@ export default {
 export const Status = () => <div>
   <Radio checked>Checked</Radio>
   <Radio checked={false}>Unchecked</Radio>
-  <Radio checked={false}>Unchecked</Radio>
 </div>

@@ -12,7 +12,6 @@ export default {
 
 export const Status=()=><div>
   <Checkbox checked>Checked</Checkbox>
-  <Checkbox checked>Checked</Checkbox>
   <Checkbox checked={false}>Unchecked</Checkbox>
 </div>
 

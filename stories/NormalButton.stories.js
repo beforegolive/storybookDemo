@@ -7,7 +7,7 @@ export default {
   component: Button
 }
 
-export const Primary = () => <Button type="primary" style={{borderRadius:10}}>Primary</Button>;
+export const Primary = () => <Button type="primary">Primary</Button>;
 
 // Primary.storyName = 'I am the primary';
 
