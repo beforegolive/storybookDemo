@@ -3,11 +3,11 @@
 }
 
 
-/* .ant-checkbox-checked .ant-checkbox-inner{
+.ant-checkbox-checked .ant-checkbox-inner{
     background-color: #3bac99;
     border-color: #3bac99;
 }
 
  .ant-radio-checked .ant-radio-inner::after {
   background-color: #3bac99 ;
- } */
+ }
